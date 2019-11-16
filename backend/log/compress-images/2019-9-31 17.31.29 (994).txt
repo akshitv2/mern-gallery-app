@@ -1,0 +1,7 @@
+File from: [./public/uploads/IMG_20191029_150319.jpg]
+
+File to: [./public/uploads/min/IMG_20191029_150319.jpg]
+
+Compression algorithm: [-]
+
+Description: File does not exist!
